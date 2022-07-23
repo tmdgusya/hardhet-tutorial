@@ -1,0 +1,22 @@
+{
+  "name": "hardhat-tutorial",
+  "version": "1.0.0",
+  "description": "hardset tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmdgusya/hardhet-tutorial.git"
+  },
+  "author": "roach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmdgusya/hardhet-tutorial/issues"
+  },
+  "homepage": "https://github.com/tmdgusya/hardhet-tutorial#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
+}
